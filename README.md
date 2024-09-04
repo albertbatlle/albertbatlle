@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hola! 👋
+ 
+Data Analyst 📊 | MySQL 🐬 | Power BI 📈 | Excel | Python 🐍 | Business Intelligence | MongoDB | Ecommerce Specialist 🌐
 
 <!--
 **albertbatlle/albertbatlle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
